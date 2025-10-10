@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.17314925
+
 # A Fragmented Field: A Systematic Literature Review on Conceptual Compatibility in Multilingual Software Systems
 
 This repository contains the primary data, analysis scripts, and figures associated with the systematic literature review (SLR) submitted to **J.UCS** on October, 2025.
