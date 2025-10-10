@@ -1,6 +1,6 @@
 # A Fragmented Field: A Systematic Literature Review on Conceptual Compatibility in Multilingual Software Systems
 
-This repository contains the primary data, analysis scripts, and figures associated with the systematic literature review (SLR) submitted to **[Journal Name]** on September 30, 2025.
+This repository contains the primary data, analysis scripts, and figures associated with the systematic literature review (SLR) submitted to **[J.UCS]** on October, 2025.
 
 > **Warning:** This work is currently under peer review. The materials are made available solely to ensure transparency and reproducibility for reviewers and editors. Public reuse, redistribution, or citation is not permitted until formal acceptance and publication of the associated article.
 
