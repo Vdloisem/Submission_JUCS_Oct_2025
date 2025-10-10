@@ -1,0 +1,31 @@
+RandomID,Title,DOI link,Year,Venue,Full-Text Accessibility,Publication Language,Multiple Paradigms,Paradigmatic Compatibility Focus,Quantitative Components,Empirical Evidence,Validation Methods,Study Type,Screening_judgement,score_num
+R391482,"Integrating the Physical and Link Layers in Modeling the Wireless Ad Hoc Networking MAC Protocol , Synchronous Collision Resolution",-,-,-,maybe,yes,maybe,no,maybe,maybe,maybe,maybe,Exclude,2.7
+R521508,Paradigm Translations in Integrating Manufacturing Information Using a Meta-model : The TSER Approach,-,1993,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,3.5
+R238550,An Integrative Bargaining Paradigm for Investigating Multidisciplinary Design Tradeoffs,https://doi.org/10.1177/154193129403801608,1994,-,maybe,yes,no,no,maybe,no,maybe,no,Exclude,1.4
+R106093,Goal-Driven Definition of Product Metrics Based on Properties,-,1995,-,maybe,yes,no,no,maybe,no,maybe,no,Exclude,2.5
+R743621,Integrated formal methods with richer methodological profiles for the development of multi-perspective systems,-,1996,-,maybe,yes,yes,yes,yes,maybe,maybe,yes,Exclude,4.3
+R248034,Knowledge Transfer Between Languages and Paradigms,-,2000,-,maybe,yes,maybe,no,no,no,no,maybe,Exclude,2.7
+R507826,Integration of maintenance in the enterprise: Towards an enterprise modelling-based framework compliant with proactive maintenance strategy,https://doi.org/10.1080/09537280150501275,2001,-,maybe,yes,no,no,maybe,maybe,yes,no,Exclude,1.4
+R142296,An introduction to multi-paradigm modelling and simulation.,-,2002,-,maybe,yes,yes,yes,maybe,maybe,maybe,maybe,Exclude,3.2
+R426929,Model-Solver Integration in Decision Support Systems : A Web Services Approach,-,2003,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,3.5
+R326554,"Modélisation des processus ""métier"" mis en oeuvre dans une approche EAI en vue de leur pilotage : le pilotage des applications intégrées",-,2004,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,3.5
+R102662,Component Model Interoperability for Scientific Computing,-,2006,-,maybe,yes,maybe,maybe,maybe,maybe,maybe,maybe,Exclude,3.5
+R340098,Integrating a Declarative with an Imperative Model Transformation Language,-,2006,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,4.3
+R250883,"Integration of Software Packages with Different Programming Paradigms , Exemplified by a Ship Model Generating Tool",-,2007,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,3.5
+R343445,An overview on protocol adaptors for service component integration,-,2008,-,maybe,yes,no,no,no,no,no,maybe,Exclude,2.7
+R74743,Current Issues in Multi-Paradigm Modeling,-,2008,-,maybe,yes,yes,yes,maybe,maybe,maybe,maybe,Exclude,3.2
+R359098,"4th International Workshop on Model Driven Engineering, Verification, and Validation: Integrating Verification and Validation in MDE",https://doi.org/10.1007/978-3-540-69073-3_16,2008,ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,maybe,yes,yes,maybe,maybe,maybe,maybe,maybe,Exclude,3.5
+R636968,Electronic Communications of the EASST Volume 21 ( 2009 ) Proceedings of the 3 rd International Workshop on Multi-Paradigm Modeling ( MPM 2009 ) A practical approach to multi-modeling views composition,-,2009,-,maybe,yes,maybe,maybe,maybe,no,maybe,maybe,Exclude,3.2
+R286753,Question-learn-test-feedback pattern to test emerging software construction paradigms,-,2010,-,maybe,yes,yes,yes,maybe,maybe,yes,yes,Exclude,4.3
+R00103,Electronic Communications of the EASST Volume X ( 2010 ) Proceedings of the 4 th International Workshop on Multi-Paradigm Modeling ( MPM 2010 ) A generic in-place transformation-based approach to structured model co-evolution,-,2010,-,maybe,yes,no,no,maybe,no,maybe,no,Exclude,2.7
+R206957,"A Novel Class, Object and Inheritance based Coupling Measure (COICM) to Find Better OOP Paradigm using JAVA",-,2011,-,maybe,yes,no,no,yes,maybe,maybe,yes,Exclude,2.5
+R632137,An Experimental Usability Evaluation Framework for Model-Driven Tools,-,2011,-,maybe,yes,no,no,maybe,no,maybe,no,Exclude,2.5
+R823372,Electronic Communications of the EASST Volume 50 ( 2011 ) Recent Advances in Multi-paradigm Modeling ( MPM 2011 ) Reusing Model Transformations across Heterogeneous Metamodels,-,2012,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,4.3
+R202505,Electronic Communications of the EASST Volume 50 ( 2011 ) Recent Advances in Multi-paradigm Modeling ( MPM 2011 ) Semantic Adaptation using CCSL Clock Constraints,-,2012,-,maybe,yes,yes,yes,maybe,maybe,maybe,yes,Exclude,3.9
+R675363,On the Convergence of Experimental Methodologies for Distributed Systems: Where do we stand?,-,2013,-,maybe,yes,maybe,maybe,yes,yes,yes,maybe,Exclude,2.9
+R786448,Automatic Generation of Trace Links in Model-driven Software Development,-,2013,-,maybe,yes,no,no,yes,maybe,yes,no,Exclude,2.9
+R323292,Integrando metodologias na análise de dados sob o paradigma interacionista simbólico: um caso prático,https://doi.org/10.1590/1679-39519359,2014,-,maybe,yes,no,no,no,no,no,no,Exclude,1.4
+R506862,"ModHel'X, un outil expérimental pour la modélisation multi-paradigmes",-,2014,-,maybe,yes,yes,yes,yes,maybe,yes,yes,Include,4.6
+R295900,Integration Testing Prior to Unit Testing: A Paradigm Shift in Object Oriented Software Testing of Agile Software Engineering,https://doi.org/10.17485/IJST/2016/V9I20/91223,2016,-,maybe,yes,no,no,yes,yes,yes,no,Exclude,1.4
+R368258,"Model-based, client-side integration of heterogeneous data from REST services",-,2018,-,maybe,yes,no,no,maybe,maybe,yes,no,Exclude,2.7
+R79768,Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration,https://doi.org/10.48550/arXiv.2504.13119,2025,arXiv.org,maybe,yes,no,no,yes,maybe,yes,no,Exclude,2.5
