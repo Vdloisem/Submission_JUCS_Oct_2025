@@ -1,4 +1,4 @@
-[![DOI](https://doi.org/10.5281/zenodo.17314925)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17314925.svg)](https://doi.org/10.5281/zenodo.17314925)
 
 # A Fragmented Field: A Systematic Literature Review on Conceptual Compatibility in Multilingual Software Systems
 
