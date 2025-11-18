@@ -1,0 +1,83 @@
+Id,Reference,venue_type,Year,primary_rq
+S1.1,aguiar2021source,Conference & Workshop,2021,RQ1
+S1.2,apel2011language,Journal,2011,RQ1
+S1.3,BanbaraTamuraInoue2006,Conference & Workshop,2005,RQ1
+S1.4,barrett1998polylingual,Thesis,1998,RQ1
+S1.5,BrichauGybelsWuyts2002,Preprint & Report,2002,RQ1
+S1.6,cherny2024metaffi,Preprint & Report,2024,RQ1
+S1.7,chisnall2013challenge,Journal,2013,RQ1
+S1.8,CimadamoreViroli2007,Conference & Workshop,2007,RQ1
+S1.9,cook2005language,Preprint & Report,2005,RQ1
+S1.10,DentiOmiciniRicci2005,Journal,2005,RQ1
+S1.11,Eichberg2011,Conference & Workshop,2011,RQ1
+S1.12,grichi2020impact,Journal,2020,RQ1
+S1.13,grimmer2018cross,Journal,2018,RQ1
+S1.14,Gybels2003,Preprint & Report,2003,RQ1
+S1.15,kochhar2016large,Conference & Workshop,2016,RQ1
+S1.16,koppel2018one,Journal,2018,RQ1
+S1.17,li2024multilingual,Journal,2024,RQ1
+S1.18,lora2019translation,Journal,2019,RQ1
+S1.19,maurina2025babelrts,Journal,2025,RQ1
+S1.20,maybee1996multilanguage,Conference & Workshop,1996,RQ1
+S1.21,MorozovEtAl2015,Conference & Workshop,2015,RQ1
+S1.22,mussbacher2024polyglot,Journal,2024,RQ1
+S1.23,mushtaq2017multilingual,Journal,2017,RQ1
+S1.24,mycroft1996integration,Journal,1996,RQ1
+S1.25,Ostermayer2015,Conference & Workshop,2015,RQ1
+S1.26,OstermayerEtAl2014,Conference & Workshop,2014,RQ1
+S1.27,OstermayerEtAl2014PPI,Conference & Workshop,2014,RQ1
+S1.28,owens2016generic,Thesis,2016,RQ1
+S1.29,Pankratius2012,Conference & Workshop,2012,RQ1
+S1.30,patterson2022semantic,Conference & Workshop,2022,RQ1
+S1.31,ridgway2008reasoning,Journal,2008,RQ1
+S1.32,schaub2016design,Journal,2016,RQ1
+S1.33,schiewe2022advancing,Journal,2022,RQ1
+S1.34,spinellis1994language,Conference & Workshop,1994,RQ1
+S1.35,springer2016inter,Preprint & Report,2016,RQ1
+S1.36,sultana2016understanding,Conference & Workshop,2016,RQ1
+S1.37,tomassetti2013classification,Conference & Workshop,2013,RQ1
+S1.38,vetro2012language,Conference & Workshop,2012,RQ1
+S1.39,yang2024multi,Journal,2024,RQ1
+S2.1,ahmad2020autonet,Conference & Workshop,2020,RQ2
+S2.2,attiogbe2007contributions,Thesis,2007,RQ2
+S2.3,bersani2009integrated,Conference & Workshop,2009,RQ2
+S2.4,brookes2003using,Preprint & Report,2003,RQ2
+S2.5,bryton2007towards,Conference & Workshop,2007,RQ2
+S2.6,cadavid2015analysis,Journal,2015,RQ2
+S2.7,choo2007integrative,Journal,2007,RQ2
+S2.8,counsell2010theoretical,Journal,2010,RQ2
+S2.9,deLara2002,Journal,2002,RQ2
+S2.10,elyasaf2022petri,Journal,2022,RQ2
+S2.11,freuacomparison,Preprint & Report,2014,RQ2
+S2.12,gaia2016using,Conference & Workshop,2016,RQ2
+S2.13,gorodnyaya2019method,Conference & Workshop,2019,RQ2
+S2.14,goulao2002objects,Conference & Workshop,2002,RQ2
+S2.15,hamza2014approche,Thesis,2014,RQ2
+S2.16,hardebolle2008composition,Thesis,2008,RQ2
+S2.17,haxthausen2016feasibility,Conference & Workshop,2016,RQ2
+S2.18,hochstein2006empirical,Conference & Workshop,2006,RQ2
+S2.19,jacquet2014modhel,Conference & Workshop,2014,RQ2
+S2.20,jain2014interoperation,Preprint & Report,2014,RQ2
+S2.21,jordan2015feature,Journal,2015,RQ2
+S2.22,kawamura2000quantitative,Conference & Workshop,2000,RQ2
+S2.23,koudri2013necessite,Journal,2013,RQ2
+S2.24,lee1990computational,Journal,1990,RQ2
+S2.25,leitner2012improving,Conference & Workshop,2012,RQ2
+S2.26,li2013dsm,Conference & Workshop,2013,RQ2
+S2.27,linos1995polycare,Conference & Workshop,1995,RQ2
+S2.28,mahmood2022effects,Journal,2022,RQ2
+S2.29,mathaikutty2005functional,Thesis,2005,RQ2
+S2.30,mussbacher2012assessing,Conference & Workshop,2012,RQ2
+S2.31,mykoniatis2020modeling,Journal,2020,RQ2
+S2.32,naugle2023feedback,Journal,2023,RQ2
+S2.33,obermeier2011fundamental,Conference & Workshop,2011,RQ2
+S2.34,ortiz2008use,Conference & Workshop,2008,RQ2
+S2.35,oudotcomposability,Preprint & Report,2007,RQ2
+S2.36,ruiztype,Conference & Workshop,1996,RQ2
+S2.37,spinellis1994programming,Thesis,1994,RQ2
+S2.38,stannett2015integration,Journal,2015,RQ2
+S2.39,tolosa2011towards,Journal,2011,RQ2
+S2.40,wegner1993reasoning,Conference & Workshop,1993,RQ2
+S2.41,westbrook1998analysis,Book,1998,RQ2
+S2.42,zou2022parametric,Preprint & Report,2022,RQ2
+S2.43,zschaler2023generic,Journal,2023,RQ2
