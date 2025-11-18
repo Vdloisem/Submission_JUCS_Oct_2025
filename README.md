@@ -8,6 +8,27 @@ This repository contains the primary data, analysis scripts, and figures associa
 
 ---
 
+### 📁 Repository Structure
+
+The repository is organized into three main modules corresponding to the methodology described in the article:
+
+#### 1. `SLR_Conceptual_Compatibility_Data/`
+**Content:** Raw Data, Screening & Extraction Materials.
+* **Raw Search Exports:** Contains the unprocessed, raw export files (.CSV) directly obtained from the search tools/databases (e.g., `Elicit - gather-results...csv`). These represent the initial corpus (n=290 for RQ1, n=362 for RQ2) *before* any screening.
+* **Screening Data:** Contains the processed spreadsheets used during the manual screening phase (e.g., `PhdSLR-...-SCREENING.csv`).
+* **Extraction Data:** Contains the final data extraction spreadsheets with the categorized information from the 82 primary studies.
+
+#### 2. `SLR_Selection_Procedure_Script_And_Outputs/`
+**Content:** Selection Audit & Data Preparation (Paper Figure 1).
+* **Selection Audit Scripts:** Contains the R scripts (`DecisionGapAudit...R`) used to generate the **quantitative consistency audit** of the screening process.
+* **Preparation Scripts:** Includes data alignment scripts (`Alignment21.R`, `Alignment22.R`) used to format and prepare the data for analysis.
+* **Outputs:** Generates the ROC and Calibration plots corresponding to **Figure 1** in the manuscript.
+
+#### 3. `SLR_Descriptive_Overview_And_Structural_Analysis/`
+**Content:** Descriptive Statistics (Paper Figures 3 & 4).
+* Contains the dataset (`SLR_venue_temporal_data.csv`) and R scripts used to analyze the field's demographics.
+* **Outputs:** Generates the visualizations for **Figure 3** (Temporal trends) and **Figure 4** (Venue distribution).
+  
 ### 📁 Repository Contents
 
 The repository is organized as follows:
