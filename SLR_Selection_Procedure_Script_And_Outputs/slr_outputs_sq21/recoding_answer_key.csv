@@ -1,0 +1,15 @@
+RandomID,Title,DOI link,Year,Venue,Full-Text Accessibility,Publication Language,Empirical Evidence,Screening_judgement,score_num
+R585893,eHealth,https://doi.org/10.1055/s-0038-1625240,2010,Methods of Information in Medicine,maybe,yes,maybe,Exclude,2.5
+R859668,Methodologies for multilingual information integration in the domain of Chinese art,https://doi.org/10.1177/0340035211430797,2011,-,maybe,yes,maybe,Exclude,2.5
+R626546,Inter-operability and reusability: the science of annotation,https://doi.org/10.1007/s10579-011-9164-x,2011,Language Resources and Evaluation,maybe,yes,maybe,Exclude,1.4
+R926595,Global Interoperability for Language Resources: Introduction to the Special Section,https://doi.org/10.1007/s10579-012-9184-1,2012,Language Resources and Evaluation,no,yes,no,Exclude,2.5
+R586329,Global interoperability and linked data in libraries: ICCU international committment,https://doi.org/10.4403/JLIS.IT-8726,2013,-,maybe,yes,no,Exclude,1.4
+R689060,A fuzzy rule-based system to assess e-government technical interoperability maturity level,https://doi.org/10.1108/TG-08-2013-0028,2014,-,maybe,yes,yes,Exclude,2.7
+R321503,ESCO: Boosting Job Matching in Europe with Semantic Interoperability,https://doi.org/10.1109/MC.2014.283,2014,Computer,maybe,yes,no,Exclude,1.4
+R841221,Assessing Systems Integration: A Conceptual Framework and a Method,https://doi.org/10.1002/SRES.2221,2015,-,maybe,yes,no,Exclude,1.4
+R249762,Globalizing Domain-Specific Languages,https://doi.org/10.1007/978-3-319-26172-0,2015,Lecture Notes in Computer Science,no,no,no,Exclude,2.7
+R765800,Multilingualism and conceptual modelling,https://doi.org/10.5209/CLAC.52774,2016,-,maybe,yes,no,Exclude,1.4
+R185658,Etude des mécanismes d’interopérabilité des systèmes d’information basés sur les services Web sémantiques,-,2017,-,maybe,yes,maybe,Exclude,2.5
+R13610,INTER-IoT Architecture for Platform Interoperability,https://doi.org/10.1007/978-3-030-82446-4_3,2021,Internet of Things,maybe,yes,maybe,Exclude,2.7
+R498846,Selecting Relevant Documents for Multilingual Content Analysis:: An Evaluation of Keyword and Semantic Similarity Search Approaches,https://doi.org/10.5117/ccr2023.2.5.pali,2023,Computational Communication Research,maybe,yes,yes,Exclude,1.4
+R683919,Assessing the Real Impact of Open-Source Components in Software Systems,https://doi.org/10.1109/ACCESS.2023.3322362,2023,IEEE Access,maybe,yes,yes,Exclude,2.7

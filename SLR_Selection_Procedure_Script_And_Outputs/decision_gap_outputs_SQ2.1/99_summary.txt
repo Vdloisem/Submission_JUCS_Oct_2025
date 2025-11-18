@@ -1,0 +1,9 @@
+Input: /Users/mikel/Documents/SLR_Conceptual_Compatibility/slr_outputs_sq21/SQ2.1_with_ReasonCode.csv
+Output folder: /Users/mikel/Documents/SLR_Conceptual_Compatibility/decision_gap_outputs_SQ2.1
+n = 289  (include=10, exclude=279)
+tau = 4  -> boundary = tau - 0.5 = 3.50
+Borderline rates (|delta| <= eps): eps=0.05: 0.010 ; eps=0.10: 0.010 ; eps=0.20: 0.010
+Gap summary: inc p5=0.000 ; exc p95=-0.800
+AUC = 1.000 (95% CI: 1.000–1.000) ; Cohen's d = -3.91
+Confusion@tau: Acc=1.000 ; Sens=1.000 ; Spec=1.000 (TP=10, TN=279, FP=0, FN=0)
+Flip rates under jitter: eps=0.05: 0.005 ; eps=0.10: 0.005 ; eps=0.20: 0.005
