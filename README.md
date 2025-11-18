@@ -26,6 +26,10 @@ The repository is organized into three main modules corresponding to the methodo
 * `Alignment21.R` & `Alignment22.R`: Scripts used for data alignment and preparation for each sub-question.
 * `DecisionGapAudit21.R` & `DecisionGapAudit22.R`: Scripts to perform and visualize the quantitative consistency audit of the screening process (ROC/Calibration plots).
 
+**Data:**
+* `PhdSLR-...-Sub-question2.1-SCREENING(2).csv`: Raw screening data for Sub-question 2.1 (corresponds to **RQ1**).
+* `PhdSLR-...-Sub-question2.2-SCREENING(2).csv`: Raw screening data for Sub-question 2.2 (corresponds to **RQ2**).
+* 
 **Generated Output Directories:**
 * `/decision_gap_outputs_SQ2.1/`: Contains figures and other outputs related to the consistency audit for SQ2.1.
 * `/decision_gap_outputs_SQ2.2/`: Contains figures and other outputs related to the consistency audit for SQ2.2.
