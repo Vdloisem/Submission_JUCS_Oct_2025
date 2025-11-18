@@ -14,7 +14,7 @@ The repository is organized into three main modules corresponding to the methodo
 
 #### 1. `SLR_Conceptual_Compatibility_Data/`
 **Content:** Raw Data, Screening & Extraction Materials.
-* **Raw Search Exports:** Contains the unprocessed, raw export files (.CSV) directly obtained from the search tools/databases (e.g., `Elicit - gather-results...csv`). These represent the initial corpus (n=290 for RQ1, n=362 for RQ2) *before* any screening.
+* **Raw Search Exports:** Contains the unprocessed, raw export files (.CSV) directly obtained from the search tools/databases (e.g., `gather-results...csv`). These represent the initial corpus (n=290 for RQ1, n=362 for RQ2) *before* any screening.
 * **Screening Data:** Contains the processed spreadsheets used during the manual screening phase (e.g., `PhdSLR-...-SCREENING.csv`).
 * **Extraction Data:** Contains the final data extraction spreadsheets with the categorized information from the 82 primary studies.
 
