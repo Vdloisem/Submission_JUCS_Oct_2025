@@ -19,10 +19,18 @@ The repository is organized into three main modules corresponding to the methodo
 * **Extraction Data:** Contains the final data extraction spreadsheets with the categorized information from the 82 primary studies (e.g., `PhdSLR-...-EXTRACTION.csv`).
 
 #### 2. `SLR_Selection_Procedure_Script_And_Outputs/`
-**Content:** Selection Audit & Data Preparation (Paper Figure 1).
-* **Selection Audit Scripts:** Contains the R scripts (`DecisionGapAudit...R`) used to generate the **quantitative consistency audit** of the screening process.
-* **Preparation Scripts:** Includes data alignment scripts (`Alignment21.R`, `Alignment22.R`) used to format and prepare the data for analysis.
-* **Outputs:** Generates the ROC and Calibration plots corresponding to **Figure 1** in the manuscript.
+**Content:** Selection Audit, Data Preparation & Generated Outputs.
+
+**Scripts & Project Files:**
+* `SLR_Conceptual_Compatibility.Rproj`: RStudio project file to ensure a consistent working environment for running the analysis scripts.
+* `Alignment21.R` & `Alignment22.R`: Scripts used for data alignment and preparation for each sub-question.
+* `DecisionGapAudit21.R` & `DecisionGapAudit22.R`: Scripts to perform and visualize the quantitative consistency audit of the screening process (ROC/Calibration plots).
+
+**Generated Output Directories:**
+* `/decision_gap_outputs_SQ2.1/`: Contains figures and other outputs related to the consistency audit for SQ2.1.
+* `/decision_gap_outputs_SQ2.2/`: Contains figures and other outputs related to the consistency audit for SQ2.2.
+* `/slr_outputs_sq21/`: Contains general analysis figures for SQ2.1.
+* `/slr_outputs_sq22/`: Contains general analysis figures for SQ2.2.
 
 #### 3. `SLR_Descriptive_Overview_And_Structural_Analysis/`
 **Content:** Descriptive Statistics (Paper Figures 3 & 4).
