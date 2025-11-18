@@ -34,31 +34,19 @@ The repository is organized into three main modules corresponding to the methodo
 
 #### 3. `SLR_Descriptive_Overview_And_Structural_Analysis/`
 **Content:** Descriptive Statistics (Paper Figures 3 & 4).
-* Contains the dataset (`SLR_venue_temporal_data.csv`) and R scripts used to analyze the field's demographics.
-* **Outputs:** Generates the visualizations for **Figure 3** (Temporal trends) and **Figure 4** (Venue distribution).
+
+**Scripts & Project Files:**
+* `SLR_QUANTITATIVE_ASSESSMENT...SYSTEMS.Rproj`: Specific RStudio project file for the descriptive analysis module.
+* `SLR_Quantitative_Assessment_of_Conceptual_Compatibility_Venue_Temporal.R`: The R script used to analyze the field's demographics and generate the visualizations.
+
+**Data:**
+* `SLR_venue_temporal_data.csv`: The dataset containing venue types and publication years used for these specific analyses.
+
+**Generated Outputs:**
+* `figure_temporal_trend.pdf`: Visualizes the publication trends over time (**Figure 3**).
+* `figure_venues_rq1.pdf`: Venue distribution for RQ1 studies (**Figure 4a**).
+* `figure_venues_rq2.pdf`: Venue distribution for RQ2 studies (**Figure 4b**).
   
-### 📁 Repository Contents
-
-The repository is organized as follows:
-
-#### Primary Data Files
-
-* `PhdSLR-...-Sub-question2.1-SCREENING(2).csv`: Raw screening data for Sub-question 2.1 (corresponds to **RQ1** in the paper).
-* `PhdSLR-...-Sub-question2.2-SCREENING(2).csv`: Raw screening data for Sub-question 2.2 (corresponds to **RQ2** in the paper).
-
-#### R Scripts for Analysis
-
-* `Alignment21.R` & `Alignment22.R`: Scripts used for data alignment and preparation for each sub-question.
-* `DecisionGapAudit21.R` & `DecisionGapAudit22.R`: Scripts to perform and visualize the quantitative consistency audit of the screening process.
-* `SLR_Conceptual_Compatibility.Rproj`: RStudio project file to ensure a consistent working environment for running the analysis scripts.
-
-#### Generated Output Directories
-
-* `/decision_gap_outputs_SQ2.1/`: Contains figures and other outputs related to the consistency audit for SQ2.1.
-* `/decision_gap_outputs_SQ2.2/`: Contains figures and other outputs related to the consistency audit for SQ2.2.
-* `/slr_outputs_sq21/`: Contains general analysis figures for SQ2.1.
-* `/slr_outputs_sq22/`: Contains general analysis figures for SQ2.2.
-
 #### Other Files
 
 * `LICENSE.txt`: The license file for the repository's contents.
